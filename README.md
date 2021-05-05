@@ -20,7 +20,7 @@ I use Arch Linux daily and sometime will switch to Windows for playing games lik
   - [ ] 1.0 Release
   - [x]  Difference-Based acceleration
   - [ ]  GUI?
-  - [ ]  Work with Video players like MPV
+  - [ ]  Work with Video players like MPV and replace **SVP**
 - [ ] python binding for *-ncnn-vulkan series like [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)
   - [x]  [waifu2x-ncnn-vulkan-python](https://github.com/archiemeng/waifu2x-ncnn-vulkan-python)
   - [x]  [realsr-ncnn-vulkan-python](https://github.com/archiemeng/realsr-ncnn-vulkan-python)
