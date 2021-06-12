@@ -16,7 +16,7 @@ I use Arch Linux daily and sometime will switch to Windows for playing games lik
 
 ## WIP list:
 
-- [ ] Anime2x-multibackend (More like Technical Preview Project)
+- [ ] [anime2x-multibackend](https://github.com/ArchieMeng/anime2x-multibackend) (More like Technical Preview Project)
   - [ ] 1.0 Release
   - [x]  Difference-Based acceleration
   - [ ]  GUI?
