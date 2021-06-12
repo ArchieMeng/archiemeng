@@ -28,6 +28,7 @@ I use Arch Linux daily and sometime will switch to Windows for playing games lik
   - [x]  [rife-ncnn-vulkan-python](https://github.com/archiemeng/rife-ncnn-vulkan-python)
   - [ ]  cain-ncnn-vulkan-python
   - [ ]  dain-ncnn-vulkan-python
+  - [ ]  Publish to PyPI
 - [ ] Realtime Video Frame Interpolation algorithm for low-end GPUs.
 - [ ] porting [xbmc-kodi-private-china-addons](https://github.com/zhengfan2014/xbmc-kodi-private-china-addons) from python2 to python3 for Kodi 19
 
