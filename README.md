@@ -12,7 +12,7 @@ Also, I will use some other languages like C/C++ and Java if needed.
 I use Arch Linux daily and sometime will switch to Windows for playing games like Apex.
 
 - **Language**: Mandarin, English. (I also want to learn Japanese)
-- **Most used**: Python, C/C++
+- **Most used**: Python, Kotlin, C/C++
 
 ## WIP list:
 
@@ -22,15 +22,14 @@ I use Arch Linux daily and sometime will switch to Windows for playing games lik
   - [ ]  GUI?
   - [ ]  Work with Video players like MPV and replace **SVP**
 - [ ] python binding for *-ncnn-vulkan series like [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)
-  - [x]  [waifu2x-ncnn-vulkan-python](https://github.com/archiemeng/waifu2x-ncnn-vulkan-python)
-  - [x]  [realsr-ncnn-vulkan-python](https://github.com/archiemeng/realsr-ncnn-vulkan-python)
-  - [x]  [srmd-ncnn-vulkan-python](https://github.com/archiemeng/srmd-ncnn-vulkan-python)
-  - [x]  [rife-ncnn-vulkan-python](https://github.com/archiemeng/rife-ncnn-vulkan-python)
+  - [x]  [waifu2x-ncnn-vulkan-python](https://github.com/media2x/waifu2x-ncnn-vulkan-python)
+  - [x]  [realsr-ncnn-vulkan-python](https://github.com/media2x/realsr-ncnn-vulkan-python)
+  - [x]  [srmd-ncnn-vulkan-python](https://github.com/media2x/srmd-ncnn-vulkan-python)
+  - [x]  [rife-ncnn-vulkan-python](https://github.com/media2x/rife-ncnn-vulkan-python)
   - [ ]  cain-ncnn-vulkan-python
   - [ ]  dain-ncnn-vulkan-python
   - [ ]  Publish to PyPI
 - [ ] Realtime Video Frame Interpolation algorithm for low-end GPUs.
-- [ ] porting [xbmc-kodi-private-china-addons](https://github.com/zhengfan2014/xbmc-kodi-private-china-addons) from python2 to python3 for Kodi 19
 
 
 **Blog**: https://blog.a-ca.pro
