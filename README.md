@@ -30,6 +30,11 @@ I use Arch Linux daily and sometime will switch to Windows for playing games lik
   - [ ]  dain-ncnn-vulkan-python
   - [ ]  Publish to PyPI
 - [ ] Realtime Video Frame Interpolation algorithm for low-end GPUs.
+- [ ] Autolight
+  - [ ]  update AUR
+  - [x]  adapt brightness-illum curve to user preferences
+  - [ ]  Low-light optimizations
+  - [ ]  detect lid close and pause the program
 
 
 **Blog**: https://blog.a-ca.pro
