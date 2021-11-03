@@ -19,7 +19,7 @@ I use Arch Linux daily and sometime will switch to Windows for playing games lik
 - [ ] Waifu2x ncnn Android
   - [x] Waifu2x
   - [x] Close testing
-  - [ ] Release on Google Play
+  - [x] Release on Google Play
   - [ ] SRMD
   - [ ] RealSR
   - [ ] Real-ESRGAN
