@@ -31,16 +31,16 @@ I use Arch Linux daily and sometime will switch to Windows for playing games lik
   - [ ]  cain-ncnn-vulkan-python
   - [ ]  dain-ncnn-vulkan-python
   - [ ]  Publish to PyPI
+- [ ] [Smartlight](https://github.com/ArchieMeng/smartlight)
+  - [ ]  update AUR
+  - [x]  adapt brightness-illum curve to user preferences
+  - [ ]  Low-light optimizations
+  - [ ]  detect lid close and pause the program
 - [ ] [anime2x-multibackend](https://github.com/ArchieMeng/anime2x-multibackend) (More like Technical Preview Project)
   - [ ] 1.0 Release
   - [x]  Difference-Based acceleration
   - [ ]  GUI?
   - [ ]  Work with Video players like MPV and replace **SVP**
-- [ ] Smartlight
-  - [ ]  update AUR
-  - [x]  adapt brightness-illum curve to user preferences
-  - [ ]  Low-light optimizations
-  - [ ]  detect lid close and pause the program
 
 
 **Blog**: https://blog.a-ca.pro
