@@ -20,17 +20,21 @@ I use Arch Linux daily and sometime will switch to Windows for playing games lik
   - [x] Waifu2x
   - [x] Close testing
   - [x] Release on Google Play
+  - [ ] Release on Chinese app market
   - [ ] SRMD
   - [ ] RealSR
   - [ ] Real-ESRGAN
 - [ ] python binding for *-ncnn-vulkan series like [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)
   - [x]  [waifu2x-ncnn-vulkan-python](https://github.com/media2x/waifu2x-ncnn-vulkan-python)
+    - [x]  Publish to PyPI
   - [x]  [realsr-ncnn-vulkan-python](https://github.com/media2x/realsr-ncnn-vulkan-python)
+    - [ ]  Publish to PyPI
   - [x]  [srmd-ncnn-vulkan-python](https://github.com/media2x/srmd-ncnn-vulkan-python)
+    - [ ]  Publish to PyPI
   - [x]  [rife-ncnn-vulkan-python](https://github.com/media2x/rife-ncnn-vulkan-python)
+    - [ ]  Publish to PyPI
   - [ ]  cain-ncnn-vulkan-python
   - [ ]  dain-ncnn-vulkan-python
-  - [ ]  Publish to PyPI
 - [ ] [Smartlight](https://github.com/ArchieMeng/smartlight)
   - [ ]  update AUR
   - [x]  adapt brightness-illum curve to user preferences
