@@ -7,7 +7,7 @@ ArchieMeng
 
 Life is short, I use Python.
 
-Also, I will use some other languages like C/C++ and Java if needed.
+Also, I will use some other languages like C/C++ and Kotlin if needed.
 
 I use Arch Linux daily and sometime will switch to Windows for playing games like Apex.
 
@@ -37,7 +37,7 @@ I use Arch Linux daily and sometime will switch to Windows for playing games lik
   - [ ]  dain-ncnn-vulkan-python
 - [ ] [Smartlight](https://github.com/ArchieMeng/smartlight)
   - [ ]  update AUR
-  - [x]  adapt brightness-illum curve to user preferences
+  - [x]  adjust brightness-illum curve according to manual input
   - [ ]  Low-light optimizations
   - [ ]  detect lid close and pause the program
 - [ ] [anime2x-multibackend](https://github.com/ArchieMeng/anime2x-multibackend) (More like Technical Preview Project)
