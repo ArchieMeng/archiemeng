@@ -16,7 +16,7 @@ I use Arch Linux daily and sometime will switch to Windows for playing games lik
 
 ## WIP list:
 
-- [ ] Waifu2x ncnn Android
+- [ ] Waifu2x ncnn Android [Google Play](https://play.google.com/store/apps/details?id=pro.archiemeng.waifu2x) | [Huawei Market](https://appgallery.huawei.com/app/C105010841)
   - [x] Waifu2x
   - [x] Close testing
   - [x] Release on Google Play
