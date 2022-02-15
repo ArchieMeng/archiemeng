@@ -16,11 +16,11 @@ I use Arch Linux daily and sometime will switch to Windows for playing games lik
 
 ## WIP list:
 
-- [ ] Waifu2x ncnn Android [Google Play](https://play.google.com/store/apps/details?id=pro.archiemeng.waifu2x) | [Huawei Market](https://appgallery.huawei.com/app/C105010841)
+- [ ] Waifu2x ncnn Android
   - [x] Waifu2x
   - [x] Close testing
-  - [x] Release on Google Play
-  - [x] Release on Chinese app market
+  - [x] Publish to [Google Play](https://play.google.com/store/apps/details?id=pro.archiemeng.waifu2x)
+  - [x] Publish to [Huawei Market](https://appgallery.huawei.com/app/C105010841)
   - [ ] SRMD
   - [ ] RealSR
   - [ ] Real-ESRGAN
