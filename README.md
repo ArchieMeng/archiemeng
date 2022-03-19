@@ -9,7 +9,7 @@ Life is short, I use Python.
 
 Also, I will use some other languages like C/C++ and Kotlin if needed.
 
-I use Arch Linux daily and sometime will switch to Windows for playing games like Apex.
+I use Arch Linux daily. (Apex is now playable with Steam on Linux. So there is no reason to stick with an useless windows OS. ~~and sometime will switch to Windows for playing games like Apex.~~)
 
 - **Language**: Mandarin, English. (I also want to learn Japanese)
 - **Most used**: Python, Kotlin, C/C++
