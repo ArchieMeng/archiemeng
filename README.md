@@ -21,7 +21,7 @@ I use Arch Linux daily. (Apex is now playable with Steam on Linux. So there is n
   - [x] Close testing
   - [x] Publish to [Google Play](https://play.google.com/store/apps/details?id=pro.archiemeng.waifu2x)
   - [x] Publish to [Huawei Market](https://appgallery.huawei.com/app/C105010841)
-  - [ ] RealCUGAN
+  - [x] RealCUGAN
   - [ ] RealSR
   - [ ] Real-ESRGAN
 - [ ] python binding for *-ncnn-vulkan series like [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)
