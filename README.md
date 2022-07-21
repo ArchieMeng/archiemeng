@@ -20,7 +20,7 @@ I use Arch Linux daily. (Apex is now playable with Steam on Linux. So there is n
   - [x] Waifu2x
   - [x] Close testing
   - [x] Publish to [Google Play](https://play.google.com/store/apps/details?id=pro.archiemeng.waifu2x)
-  - [x] Publish to [Huawei Market](https://appgallery.huawei.com/app/C105010841)
+  - [x] Publish to [Coolapk Market](https://www.coolapk.com/apk/296976)
   - [x] RealCUGAN
   - [ ] RealSR
   - [ ] Real-ESRGAN
