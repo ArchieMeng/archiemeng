@@ -35,6 +35,8 @@ I use Arch Linux daily. (Apex is now playable with Steam on Linux. So there is n
     - [x]  Publish to PyPI
   - [x]  [realcugan-ncnn-vulkan-python](https://github.com/media2x/realcugan-ncnn-vulkan-python) 
     - [x]  Publish to PyPI
+  - [ ] ifrnet-ncnn-vulkan-python [upstream repo](https://github.com/nihui/ifrnet-ncnn-vulkan)
+    - [ ]  Publish to PyPI
 - [ ] [Smartlight](https://github.com/ArchieMeng/smartlight)
   - [ ]  update AUR
   - [x]  adjust brightness-illum curve according to manual input
@@ -44,8 +46,6 @@ I use Arch Linux daily. (Apex is now playable with Steam on Linux. So there is n
   - [x]  Difference-Based acceleration
   - [x]  Colab support
   - [ ]  Support pause/resume
-  - [ ]  GUI
-  - [ ]  Work with Video players like MPV and replace **SVP**
 
 
 **Blog**: https://blog.a-ca.pro
