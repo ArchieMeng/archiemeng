@@ -25,6 +25,9 @@ I use Arch Linux daily. (Apex is now playable with Steam on Linux. So there is n
   - [ ] RealSR
   - [ ] Real-ESRGAN
   - [x] [Core JNI bindings](https://github.com/ArchieMeng/ncnn-android-waifu2x-demo)
+- [ ] ??????? ncnn Android
+  - [ ] mkdir
+  - [ ] git init
 - [ ] python binding for *-ncnn-vulkan series like [waifu2x-ncnn-vulkan](https://github.com/nihui/waifu2x-ncnn-vulkan)
   - [x]  [waifu2x-ncnn-vulkan-python](https://github.com/media2x/waifu2x-ncnn-vulkan-python)
     - [x]  Publish to PyPI
@@ -41,12 +44,9 @@ I use Arch Linux daily. (Apex is now playable with Steam on Linux. So there is n
 - [ ] [Smartlight](https://github.com/ArchieMeng/smartlight)
   - [ ]  update AUR
   - [x]  adjust brightness-illum curve according to manual input
+  - [ ]  adjust
   - [ ]  Low-light optimizations
   - [ ]  detect lid close and pause the program
-- [ ] [anime2x-multibackend](https://github.com/ArchieMeng/anime2x-multibackend) (More like Technical Preview Project)
-  - [x]  Difference-Based acceleration
-  - [x]  Colab support
-  - [ ]  Support pause/resume
 
 
 **Blog**: https://blog.a-ca.pro
