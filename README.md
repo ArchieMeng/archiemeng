@@ -2,7 +2,7 @@ ArchieMeng
 ====
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=archiemeng&count_private=true&show_icons=true" alt="github stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=archiemeng" alt="github stats" />
 </p>
 
 Life is short, I use Python.
