@@ -53,4 +53,4 @@ I use Arch Linux daily. (Apex is now playable with Steam on Linux. So there is n
 
 **Email**: archiemeng@protonmail.com
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=archiemeng)
+![Visitors](https://komarev.com/ghpvc/?username=archiemeng)
