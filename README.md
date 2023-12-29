@@ -49,7 +49,7 @@ I use Arch Linux daily. (Apex is now playable with Steam on Linux. So there is n
   - [ ]  detect lid close and pause the program
 
 
-**Blog**: https://blog.a-ca.pro
+**Blog**: https://archiemeng.github.io
 
 **Email**: archiemeng@protonmail.com
 
